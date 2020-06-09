@@ -2,7 +2,7 @@
 
 I am a frontend engineer and blogger who loves reverse engineering apps for hidden features!
 
-## 💌 How to reach me: ...
+## 💌 Find me on internet places
 
 - [Twitter](https://twitter.com/wongmjane)
 - [Instagram](https://instagram.com/wongmjane)
